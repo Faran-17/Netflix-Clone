@@ -1,2 +1,4 @@
-# Netflix-Clone
-Netlfix clone using React JS
+# Netflix-Clone  
+FrontEnd - JS, CSS, HTML  
+Backend - Google Firebase  
+
