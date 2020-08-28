@@ -1,4 +1,4 @@
 # Netflix-Clone  
-FrontEnd - JS, CSS, HTML  
+FrontEnd - ReactJS, CSS, HTML  
 Backend - Google Firebase  
 
